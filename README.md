@@ -16,6 +16,6 @@ references:
 https://github.com/code-and-dogs/liveMaps
 
 
-![Map_1](img/pic_1.png)
-![Map_2](img/pic_2.png)
-![Map_3](img/pic_3.png)
+![Map_1](img/pic_01.png)
+![Map_2](img/pic_02.png)
+![Map_3](img/pic_03.png)
